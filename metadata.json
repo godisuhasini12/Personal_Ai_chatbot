@@ -1,0 +1,6 @@
+{
+  "name": "Personal AI Productivity & Automation Agent",
+  "description": "An all-in-one productivity suite powered by Gemini AI featuring email generator, summarizer, meeting notes, task planner, content creator, grammar rewriter, document summarizer, and workflow roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
